@@ -1,4 +1,4 @@
-# Education-Inequality
+# Education Inequality
 The project aims to investigate the correlation between educational outcomes and socioeconomic factors in U.S. high schools. ACT and SAT scores will be used as indicators of educational outcomes. The project will assess the extent to which area socioeconomic factors predict ACT and SAT scores.
 
 ## Data
